@@ -3,7 +3,7 @@
 
 
   #search{
-      background-image: url("../image/0.jpg");
+      background-image: url("image/0.jpg");
     height: 400px;
    
   
@@ -13,7 +13,7 @@
 
 .quick_search{
     height: 600px;
-   background-image:url("../image/p3.jpg");
+   background-image:url("image/p3.jpg");
   
    
 }
@@ -48,7 +48,7 @@
 
 #hobbies{
     height:600px;
-     background-image: url("../image/grey.jpg");
+     background-image: url("image/grey.jpg");
 
 }
 .hobbie{
