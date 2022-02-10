@@ -1,0 +1,60 @@
+
+    
+
+
+  #search{
+      background-image: url("../image/0.jpg");
+    height: 400px;
+   
+  
+  
+  
+}
+
+.quick_search{
+    height: 600px;
+   background-image:url("../image/p3.jpg");
+  
+   
+}
+.iocn{
+    font-size: 30px;
+    padding-top:300px ;
+    text-decoration:auto;
+    width:70px
+}
+.photo{
+    
+    height: 400px; 
+    padding-left: 50px;
+     padding-right: 50px;
+      padding-top:0px; 
+      padding-bottom: 10px;
+      border-radius: 50%;
+    
+}
+.heading{
+    color: purple;
+    font-size:50px;
+    text-align:center;
+    font-style: italic;
+    margin-top:2px;
+    margin-left: 25%;
+    
+}
+
+   
+ 
+
+#hobbies{
+    height:600px;
+     background-image: url("../image/grey.jpg");
+
+}
+.hobbie{
+    color:rgb(62, 65, 62);
+    font-style: italic;
+    text-align: center;
+    font-size: 60px;
+    margin-top:2px;
+}
